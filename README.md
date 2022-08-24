@@ -32,24 +32,5 @@ https://user-images.githubusercontent.com/85950488/185778911-bf2c3e2f-337e-4787-
 
 > Go to localhost:3000
 
-----
-
-## Contributing 💡
 
 
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
